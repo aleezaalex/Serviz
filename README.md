@@ -3,19 +3,24 @@
 
 <h1>Features</h1>
 3 main modules are being implemented: 
-. Students
-  .Create groups and submit project ideas
-  .Submit community details and various reports
-  .View submission status
-.Teachers
- .Review and approve project ideas
- .Manage student submissions and group details
- .Provide feedback on reports
-.Admin
- .Perform CRUD operations on students and teachers
- .Manage user roles and permissions
+<ul>
+  <li>Students</li>
+  <li>Create groups and submit project ideas</li>
+  <li>Submit community details and various reports</li>
+  <li>View submission status</li>
+<li>Teachers</li>
+ <li>Review and approve project ideas</li>
+ <li>Manage student submissions and group details</li>
+ <li>Provide feedback on reports</li>
+<li>Admin</li>
+ <li>Perform CRUD operations on students and teachers</li>
+ <li>Manage user roles and permissions</li>
+  </ul>
 <h1>Technologies Used</h1>
-Front-end: HTML, CSS, JavaScript
-Back-end: PHP
-Database: MySQL
+<ul>
+<li>Front-end: HTML, CSS, JavaScript</li>
+<li>Back-end: PHP</li>
+<li>Database: MySQL</li>
+</ul>
+
  
