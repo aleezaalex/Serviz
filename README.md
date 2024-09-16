@@ -5,16 +5,22 @@
 3 main modules are being implemented: 
 <ul>
   <li>Students</li>
+  <ul>
   <li>Create groups and submit project ideas</li>
   <li>Submit community details and various reports</li>
   <li>View submission status</li>
+  </ul>
 <li>Teachers</li>
+  <ul>
  <li>Review and approve project ideas</li>
  <li>Manage student submissions and group details</li>
  <li>Provide feedback on reports</li>
+  </ul>
 <li>Admin</li>
+  <ul>
  <li>Perform CRUD operations on students and teachers</li>
  <li>Manage user roles and permissions</li>
+  </ul>
   </ul>
 <h1>Technologies Used</h1>
 <ul>
